@@ -1,10 +1,12 @@
-+++
-title = "Foreground"
-date = 2020-06-13T05:37:25+08:00
-weight = 1
-chapter = true
-pre = "<b>Chp 1. </b>"
-+++
+
+---
+title: "Foreground"
+date: 2020-06-13T05:37:25+08:00
+weight: 1
+chapter: true
+pre: "<b>Chp 1. </b>"
+
+---
 
 ### Chapter 1
 

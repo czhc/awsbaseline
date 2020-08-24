@@ -1,8 +1,10 @@
-+++
-title = "AWS root user account vs IAM Administrator"
-date =  2020-06-13T05:37:54+08:00
-weight = 1
-+++
+
+---
+title: "AWS root user account vs IAM Administrator"
+date:  2020-06-13T05:37:54+08:00
+weight: 1
+
+---
 
 ### What is an IAM Administrator?
 

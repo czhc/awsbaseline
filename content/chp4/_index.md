@@ -1,10 +1,12 @@
-+++
-title = "Scaling in Production"
-date = 2020-06-13T05:37:25+08:00
-weight = 4
-chapter = true
-pre = "<b>Chp 4. </b>"
-+++
+
+---
+title: "Scaling in Production"
+date: 2020-06-13T05:37:25+08:00
+weight: 4
+chapter: true
+pre: "<b>Chp 4. </b>"
+
+---
 
 ### Chapter 4
 
