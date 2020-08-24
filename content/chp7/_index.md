@@ -1,10 +1,12 @@
-+++
-title = "Getting Help"
-date = 2020-06-13T05:37:25+08:00
-weight = 7
-chapter = true
-pre = "<b>Chp 7. </b>"
-+++
+
+---
+title: "Getting Help"
+date: 2020-06-13T05:37:25+08:00
+weight: 7
+chapter: true
+pre: "<b>Chp 7. </b>"
+
+---
 
 ### Chapter 7
 

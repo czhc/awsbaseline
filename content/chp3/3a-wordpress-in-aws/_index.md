@@ -1,8 +1,10 @@
-+++
-title = "Deploying a Wordpress blog with AWS Lightsail"
-date =  2020-06-13T05:37:54+08:00
-weight = 1
-+++
+
+---
+title: "Deploying a Wordpress blog with AWS Lightsail"
+date:  2020-06-13T05:37:54+08:00
+weight: 1
+
+---
 
 ### Deploying a Wordpress Blog with 
 

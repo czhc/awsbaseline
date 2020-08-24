@@ -1,10 +1,12 @@
-+++
-title = "Disaster Recovery"
-date = 2020-06-13T05:37:25+08:00
-weight = 5
-chapter = true
-pre = "<b>Chp 5. </b>"
-+++
+
+---
+title: "Disaster Recovery"
+date: 2020-06-13T05:37:25+08:00
+weight: 5
+chapter: true
+pre: "<b>Chp 5. </b>"
+
+---
 
 ### Chapter 5
 

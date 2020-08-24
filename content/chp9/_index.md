@@ -1,10 +1,12 @@
-+++
-title = "Improving End-user Experience"
-date = 2020-06-13T05:37:25+08:00
-weight = 9
-chapter = true
-pre = "<b>Chp 9. </b>"
-+++
+
+---
+title: "Improving End-user Experience"
+date: 2020-06-13T05:37:25+08:00
+weight: 9
+chapter: true
+pre: "<b>Chp 9. </b>"
+
+---
 
 ### Chapter 9
 
