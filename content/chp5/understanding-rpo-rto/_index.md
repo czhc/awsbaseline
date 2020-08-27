@@ -1,3 +1,10 @@
+---
+title: "Understanding RTO and RPO"
+date: 2020-06-13T05:37:25+08:00
+weight: 5
+
+---
+
 
 ### Everything fails all the time! Understanding RTO and RPO for your Business
 
